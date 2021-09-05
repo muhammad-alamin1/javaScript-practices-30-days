@@ -35,5 +35,5 @@ var y = 20;
 console.log(x == y);  // false                                                                  
 console.log(x != y); // true
 
-console.log(typeof(''));
+console.log(typeof (''));
 

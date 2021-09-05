@@ -2,7 +2,7 @@
 const date = new Date();
 const today = date.getDay();
 
-switch(today){
+switch (today) {
     case 0:
         console.log("Today is Sunday.");
         break;
@@ -17,7 +17,7 @@ switch(today){
         break;
     case 4:
         console.log("Today is Thursday.");
-         break;
+        break;
     case 5:
         console.log("Today is Friday");
         break;
