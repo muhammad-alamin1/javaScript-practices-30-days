@@ -13,5 +13,5 @@ let b = Array.from(a);
 
 b[0] = 5; // without Array.from method output like array a = [5, 2]
 console.log(a);
-console.log(b);
+console.log(b); 
 
